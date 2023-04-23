@@ -41,3 +41,17 @@ body{
         overflow: hidden;
         padding: 40px;
     }
+    #error{
+        color: red;
+        font-weight: bold;
+        display: none;
+    }
+    
+    .resultado{
+        color: #0A81D1;
+        font-weight: bold;
+        font-size: 25px;
+        margin-bottom: 5px;
+        display: none;
+    }
+
